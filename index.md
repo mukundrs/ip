@@ -4,7 +4,7 @@ Wednesday Duke is an application made to help users keep track of various tasks 
 
 Adopted and modified from [Project Duke](https://github.com/nus-cs2103-AY2122S1/ip)
 
-![Image of Ui](https://github.com/mukundrs/ip/blob/master/docs/Ui.png)
+![Image of Ui](https://github.com/mukundrs/ip/blob/gh-pages/images/Ui.png)
 
 * [1. Features](#Features)
     - [1.1. Help](#Help)
@@ -28,7 +28,7 @@ _Format_: `help`
 
 _Example_: `help`
 
-![Image of Help](https://github.com/mukundrs/ip/blob/master/docs/DukeHelp.png)
+![Image of Help](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeHelp.png)
 
 ### 1.2. Add Todo Task  <a name="Todo"></a>
 
@@ -38,7 +38,7 @@ _Format_: `todo <TASK_DESCRIPTION>`
 
 _Example_: `todo read book` 
 
-![Image of Todo](https://github.com/mukundrs/ip/blob/master/docs/DukeTodo.png)
+![Image of Todo](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeTodo.png)
 
 ### 1.3. Add Deadline Task <a name="Deadline"></a>
 
@@ -48,7 +48,7 @@ _Format_: `deadline <TASK_DESCRIPTION> /by <dd-MM-yyyy> <HH:mm>`
 
 _Example_: `deadline return book /by 12-09-2021 12:00`
 
-![Image of Deadline](https://github.com/mukundrs/ip/blob/master/docs/DukeDeadline.png)
+![Image of Deadline](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeDeadline.png)
 
 ### 1.4. Add Event Task <a name="Event"></a>
 
@@ -58,7 +58,7 @@ _Format_: `event <TASK_DESCRIPTION> /at <dd-MM-yyyy> <HH:mm>`
 
 _Example_: `event attend team meeting /at 12-09-2021 12:00`
 
-![Image of Event](https://github.com/mukundrs/ip/blob/master/docs/DukeEvent.png)
+![Image of Event](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeEvent.png)
 
 ### 1.5. Set Task as Done <a name="Done"></a>
 
@@ -68,7 +68,7 @@ _Format_: `done <TASK_NUMBER>`
 
 _Example_: `done 2`
 
-![Image of Done](https://github.com/mukundrs/ip/blob/master/docs/DukeDone.png)
+![Image of Done](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeDone.png)
 
 ### 1.6. Delete Task <a name="Delete"></a>
 
@@ -78,7 +78,7 @@ _Format_: `delete <TASK_NUMBER>`
 
 _Example_: `delete 2`
 
-![Image of Delete](https://github.com/mukundrs/ip/blob/master/docs/DukeDelete.png)
+![Image of Delete](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeDelete.png)
 
 ### 1.7. Find task <a name="Find"></a>
 
@@ -88,7 +88,7 @@ _Format_: `find <KEYWORD>`
 
 _Example_: `find book`
 
-![Image of Find](https://github.com/mukundrs/ip/blob/master/docs/DukeFind.png)
+![Image of Find](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeFind.png)
 
 ### 1.8. List Tasks <a name="List"></a>
 
@@ -98,7 +98,7 @@ _Format_: `list`
 
 _Example_: `list`
 
-![Image of List](https://github.com/mukundrs/ip/blob/master/docs/DukeList.png)
+![Image of List](https://github.com/mukundrs/ip/blob/gh-pages/images/DukeList.png)
 
 ### 1.9. Bye <a name="Bye"></a>
 
