@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\DialogBox.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\Duke.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\DukeException.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\DukeStorage.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\HelpDialogBox.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\Launcher.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\Main.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\MainWindow.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\Parser.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\TaskList.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\Ui.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\Command.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\DeadlineCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\DeleteCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\DoneCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\EventCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\ExitCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\FindCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\HelpCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\ListCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\commands\TodoCommand.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\tasks\Deadline.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\tasks\Event.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\tasks\Task.java">
+</file>
+<file name="C:\Y2S1\CS2103T\iP_Final\ip\src\main\java\duke\tasks\Todo.java">
+</file>
+</checkstyle>
